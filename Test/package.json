@@ -1,0 +1,23 @@
+{
+  "name": "y-khan",
+  "version": "1.0.0",
+  "description": "my first npm package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhanYaqoob1133/NPM-package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Yaqoob Khan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KhanYaqoob1133/NPM-package/issues"
+  },
+  "homepage": "https://github.com/KhanYaqoob1133/NPM-package#readme"
+}
